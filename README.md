@@ -1,4 +1,5 @@
-# [click here for Output](https://abiekatkam.github.io/TimeTrackingDashboard/)
+## Output
+[click here](https://abiekatkam.github.io/TimeTrackingDashboard/)
 
 
 # Frontend Mentor - Time tracking dashboard
